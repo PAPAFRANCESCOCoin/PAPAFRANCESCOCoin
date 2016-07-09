@@ -1,0 +1,9 @@
+Building PAPAFRANCESCOCoin
+
+See doc/readme-qt.rst for instructions on building PAPAFRANCESCOCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PAPAFRANCESCOCoin.
+
+See doc/build-*.txt for instructions on building PAPAFRANCESCOCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PAPAFRANCESCOCoin.
